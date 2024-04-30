@@ -1,0 +1,17 @@
+AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn 
+
+AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn Artificial Intelligent ChatBot using Tensorflow and NLP that understand the Context and Intent of Human Language. An implementation of Seq2seq chatbot. A bot is developed to provide services to the passenger in a very efficient way.
+
+
+ An NLP chatbot is a conversational agent that uses natural language processing to understand and respond to human language inputs. It uses machine learning algorithms to analyze text or speech and generate responses in a way that mimics human conversation.
+
+
+
+coclusion : overall information are added to the folder;
+
+
+thank you for the oppurtunity
+
+your sincerly ,
+
+ANEES CHANDANA.S
